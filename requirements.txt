@@ -5,5 +5,4 @@ opencv-python-headless
 ultralytics
 mediapipe
 numpy
-pygame
 pillow
