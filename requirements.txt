@@ -2,7 +2,7 @@ Flask
 Flask-SQLAlchemy
 gunicorn
 opencv-python-headless
-ulralytics
+ultralytics
 mediapipe
 numpy
 pygame
